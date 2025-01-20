@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Nama Kamu]  
+# Hi there! 👋 I'm [Ananta Firdaus]  
 
 ### 🌟 About Me
 - 🎓 Mahasiswa Teknik Informatika | [Politeknik Caltex Riau]
