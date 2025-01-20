@@ -43,9 +43,9 @@
 ---
 
 ### 🌐 Connect With Me
-- 💼 LinkedIn: [linkedin.com/in/yourusername](#)
-- 🐦 Twitter: [twitter.com/yourusername](#)
-- 📫 Email: yourname@example.com  
+- 💼 LinkedIn:
+- 🐦 Twitter:
+- 📫 Email: ananta23ti@mahasiswa.pce.ac.id
 
 ---
 
