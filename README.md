@@ -1,40 +1,58 @@
 # Hi there! 👋 I'm *Ananta Firdaus*  
 
-### 🌟 About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> 
+
+![Badge: Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+![Badge: License](https://img.shields.io/badge/license-MIT-blue.svg)
+<br><br>
 - 🎓 Mahasiswa Teknik Informatika | [Politeknik Caltex Riau]
 - 💻 Passionate about Web Development.
 - 🌱 Currently learning **Laravel**.
 - 🎯 Goals: Building impactful apps and contributing to the developer community
+<br><br>
+<br><br>
 
 ---
 
-### 🚀 Tech Stack
-- **Languages & Frameworks:**
-  
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
-  
-- **Frameworks & Tools:**  
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h3 align="left">Languages and Tools:</h3>
 
-- **Design & Productivity:**  
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
-  ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)  
+<br>
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
+
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/> 
+
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
+
+<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/>
+
+<br>
 
 ---
 
-### 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananta-TI&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananta-TI&theme=radical"  />
-</p>
+          <a href="https://github.com/1999AZZAR/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ananta-TI&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ananta-TI&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by commit" />
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ananta-TI&show_icons=true&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
 
 ---
+
+
+
 
 ### 💡 Fun Facts
 - 🎮 Gaming saat santai, suka main **Mobile Legend** & **Apex Legend**
@@ -43,9 +61,7 @@
 ---
 
 ### 🌐 Connect With Me
-- 💼 LinkedIn:
-- 🐦 Twitter:
-- 📫 Email: ananta23ti@mahasiswa.pce.ac.id
+<a href="https://www.instagram.com/ntakunti_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ananta" height="30" width="40" /></a>
 
 ---
 
