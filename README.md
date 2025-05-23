@@ -44,7 +44,7 @@
           </a>
         </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ananta-TI&show_icons=true&theme=gruvbox&hide_border=true" />
           </a>
        </p>
@@ -55,7 +55,7 @@
 
 
 ### 💡 Fun Facts
-- 🎮 Gaming saat santai, suka main **Mobile Legend** & **Apex Legend**
+- 🎮 Gaming saat santai, **Mobile Legend** & **Apex Legend**
 - 📚 Penggemar novel fiksi ilmiah dan buku pengembangan diri  
 
 ---
