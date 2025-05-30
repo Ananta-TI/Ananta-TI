@@ -2,14 +2,15 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250" />
+</picture> 
 
 ![Badge: Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 ![Badge: License](https://img.shields.io/badge/license-MIT-blue.svg)
 <br><br>
-- 🎓 Mahasiswa Teknik Informatika | [Politeknik Caltex Riau]
-- 💻 Passionate about Web Development.
-- 🌱 Currently learning **Laravel**.
+- 🎓 Mahasiswa Teknik Informatika | **Politeknik Caltex Riau**
+- 💻 Passionate about Web Development
+- 🌱 Currently learning **Laravel**
 - 🎯 Goals: Building impactful apps and contributing to the developer community
 <br><br>
 <br><br>
@@ -43,17 +44,28 @@
           </a>
        </p>
 
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ananta-TI&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=2"/>
+</div>
 
 
-### 💡 Fun Facts
+## ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&no-bg=true&no-frame=true"/>
+</div>
+
+## 💡 Fun Facts
 - 🎮 Gaming saat santai, **Mobile Legend** & **Apex Legend**
 - 📚 Penggemar novel fiksi ilmiah dan buku pengembangan diri  
 
+
+## 🌐 Connect With Me
+<a href="https://www.instagram.com/ntakunti_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ananta" height="30" width="40" /></a> 
+
+
 ---
 
-### 🌐 Connect With Me
-<a href="https://www.instagram.com/ntakunti_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ananta" height="30" width="40" /></a>
-
----
-
-✨ *"Keep learning, keep building, and stay curious!"*
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://saweria.co/Ntaa14) 
