@@ -10,7 +10,7 @@
 <br><br>
 - 🎓 Mahasiswa Teknik Informatika | **Politeknik Caltex Riau**
 - 💻 Passionate about Web Development
-- 🌱 Currently learning **Laravel**
+- 🌱 Currently learning **Laravel** & **React js**
 - 🎯 Goals: Building impactful apps and contributing to the developer community
 <br><br>
 <br><br>
