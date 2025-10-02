@@ -28,11 +28,11 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/Ananta-TI/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ananta-TI&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
+          alt="Ananta-TI :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ananta-TI&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
+          alt="Ananta-TI :: Top Langs by commit" />
           </a>
         </p>
         <p align="center">
@@ -70,6 +70,6 @@
 
 ---
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://saweria.co/Ntaa14) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/Ntaa14) 
 
 ## directed by | NTa
