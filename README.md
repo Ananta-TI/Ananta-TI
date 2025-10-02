@@ -51,10 +51,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ananta-TI&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=2"/>
 </div>
 
-## Badge Ananta Firdaus
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ananta23ti.png" alt="Badge Ananta" width="450" />
-</div>
+## Badge
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ananta23ti.png)](https://tryhackme.com/p/4138701)
 
 ## ✍️ Random Dev Quote
 <div align="center">
