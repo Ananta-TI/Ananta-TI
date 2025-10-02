@@ -51,18 +51,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ananta-TI&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=2"/>
 </div>
 
-## Badge
+## 🎖️ Badge
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ananta23ti.png)](https://tryhackme.com/p/4138701)
 
 ## ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&no-bg=true&no-frame=true"/>
 </div>
-
-## 💡 Fun Facts
-- 🎮 Gaming saat santai, **Mobile Legend** & **Apex Legend**
-- 📚 Penggemar novel fiksi ilmiah dan buku pengembangan diri  
-
 
 ## 🌐 Connect With Me
 <a href="https://www.instagram.com/ntakunti_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ananta" height="30" width="40" /></a> 
