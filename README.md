@@ -28,7 +28,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p align="center">
-          <a href="https://github.com/Ananta-TI/">
+          <!-- <a href="https://github.com/Ananta-TI/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ananta-TI&theme=gruvbox&layout=compact&hide_border=true"
           alt="Ananta-TI :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ananta-TI&theme=gruvbox&layout=compact&hide_border=true"
@@ -41,8 +41,18 @@
           <img width="49.5%" src="https://nirzak-streak-stats.vercel.app/?user=Ananta-TI&show_icons=true&theme=gruvbox&hide_border=true" /> <br>
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananta-TI&theme=gruvbox&hide_border=true&include_all_commits=true&layout=compact" />
           <img width="49.5%" src="https://github-contributor-stats.vercel.app/api?username=Ananta-TI&limit=5&theme=gruvbox&combine_all_yearly_contributions=true&hide_border=true" />
-          </a>
-       </p>
+          </a> -->
+          <!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=181533813" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=181533813&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Ananta-TI" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=181533813&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+</p>
 
 ---
 
