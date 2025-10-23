@@ -65,7 +65,7 @@
 </div>
 
 ## 🎖️ Badge
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ananta23ti.png)](https://tryhackme.com/p/4138701)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ananta23ti.png)](https://tryhackme.com/p/ananta23ti)
 
 ## ✍️ Random Dev Quote
 <div align="center">
