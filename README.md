@@ -28,7 +28,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p align="center">
-          <!-- <a href="https://github.com/Ananta-TI/">
+          <a href="https://github.com/Ananta-TI/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ananta-TI&theme=gruvbox&layout=compact&hide_border=true"
           alt="Ananta-TI :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ananta-TI&theme=gruvbox&layout=compact&hide_border=true"
@@ -42,7 +42,7 @@
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananta-TI&theme=gruvbox&hide_border=true&include_all_commits=true&layout=compact" />
           <img width="49.5%" src="https://github-contributor-stats.vercel.app/api?username=Ananta-TI&limit=5&theme=gruvbox&combine_all_yearly_contributions=true&hide_border=true" />
           </a> -->
-          <!-- Copy-paste in your Readme.md file -->
+          <!-- Copy-paste in your Readme.md file
 
 <p align="center">
   <a href="#">
