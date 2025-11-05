@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"  # jalan tiap hari jam 00:00 UTC
-  workflow_dispatch:      # bisa dijalankan manual
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -22,7 +22,8 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.gif  
+            dist/github-snake.gif
+            dist/github-snake-dark.gif?palette=github-dark
 
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
