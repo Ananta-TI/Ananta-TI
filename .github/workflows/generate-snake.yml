@@ -22,7 +22,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=#FFD700&color_dots=#89CFF0,#6A5ACD,#7B68EE,#BA55D3,#DA70D6
+            dist/github-snake.gif  
 
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
