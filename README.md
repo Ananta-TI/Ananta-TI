@@ -5,7 +5,7 @@
 </h1>
 <div align="center">
   <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1500&color=05fce0&center=true&vCenter=true&width=880&lines=Full+Stack+Web+Developer;Passionate+About+Technology;Always+Learning+New+Things!;Welcome+To+My+Profile!"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1500&color=05fce0&center=true&vCenter=true&width=880&lines=Frontend+developer+with+backend+experience;Passionate+About+Technology;Always+Learning+New+Things!;Welcome+To+My+Profile!"
   alt="typing"/>
   <p style="margin-top:12px;">
   <a href="https://github.com/Ananta-TI" target="_blank" rel="noopener">
