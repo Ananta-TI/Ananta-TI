@@ -1,4 +1,4 @@
-ni<h1 align="center">
+<h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
   <span>Hey! It's Ananta Firdaus</span>
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
