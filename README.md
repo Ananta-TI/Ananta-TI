@@ -40,10 +40,9 @@
 <br><br>
 <br><br>
 
----
 
 ### <h2>  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
-<h2 align="center">Languages and Tools:</h2>
+<!-- <h2 align="center">Languages and Tools:</h2> -->
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -81,39 +80,17 @@
 
 <p align="center">
           <a href="https://github.com/Ananta-TI/">
-          <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ananta-TI&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Ananta-TI :: Top Langs by repo" />
-          <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ananta-TI&theme=gruvbox&layout=compact&hide_border=true"
-          alt="Ananta-TI :: Top Langs by commit" />
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ananta-TI&theme=gruvbox&hide_border=true" alt="GitHub Profile Summary" />
+          <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ananta-TI&theme=gruvbox&layout=compact&hide_border=true"alt="Ananta-TI :: Top Langs by repo" />
+          <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ananta-TI&theme=gruvbox&layout=compact&hide_border=true"alt="Ananta-TI :: Top Langs by commit" />
+          <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ananta-TI&theme=gruvbox&hide_border=true"" />
+          <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ananta-TI&theme=gruvbox&hide_border=true"" />
+          <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=Ananta-TI&show_icons=true&theme=gruvbox&hide_border=true" /> <br>
           </a>
         </p>
-        <p align="center">
-          <a href="">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ananta-TI&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://nirzak-streak-stats.vercel.app/?user=Ananta-TI&show_icons=true&theme=gruvbox&hide_border=true" /> <br>
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananta-TI&theme=gruvbox&hide_border=true&include_all_commits=true&layout=compact" />
-          <img width="49.5%" src="https://github-contributor-stats.vercel.app/api?username=Ananta-TI&limit=5&theme=gruvbox&combine_all_yearly_contributions=true&hide_border=true" />
-          </a> -->
-          <!-- Copy-paste in your Readme.md file
-
-<p align="center">
-  <a href="#">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=181533813&image_size=auto&color_scheme=dark">
-      <img alt="Dashboard stats of @Ananta-TI" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=181533813&image_size=auto&color_scheme=light" width="100%">
-    </picture>
-  </a>
-</p>
 
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-</p>
-
----
-
-## 🏆 Achievements & Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ananta-TI&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophies" />
 </p>
 
 <p align="center">
@@ -122,17 +99,21 @@
   </a>
 </p>
 
----
 
 ##  ✍️Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&no-bg=true&no-frame=true"/>
 </div>
 
-## 🌐 Connect With Me
-<a href="https://www.instagram.com/ntakunti_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ananta" height="30" width="40" /></a> 
 
----
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.instagram.com/ntakunti_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ananta" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ananta" height="30" width="40" /></a>
+  <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ananta" height="30" width="40" /></a>
+  <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ananta" height="30" width="40" /></a>
+</p>
+
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/Ntaa14) 
 
