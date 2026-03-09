@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Website-0D1117.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
-</div>u
+</div>
 
 ### <h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
