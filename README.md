@@ -23,6 +23,13 @@
 </p>
 </div>
 
+<div align="center">
+
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ananta-TI&data=followers,repositories,stars,commits&theme=carbon)
+
+
+</div>
+
 ### <h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250" />
@@ -93,10 +100,11 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/ananta23ti" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ananta23ti.png" alt="TryHackMe badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ananta23ti.png" alt="TryHackMe badge" width="350">
   </a>
+  &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" width="350">
 </p>
-
 
 ##  ✍️Random Dev Quote
 <div align="center">
