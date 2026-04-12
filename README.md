@@ -90,7 +90,7 @@
           <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ananta-TI&theme=gruvbox&layout=compact&hide_border=true"alt="Ananta-TI :: Top Langs by commit" />
           <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ananta-TI&theme=gruvbox&hide_border=true"" />
           <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ananta-TI&theme=gruvbox&hide_border=true"" />
-          <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=Ananta-TI&show_icons=true&theme=gruvbox&hide_border=true" /> <br>
+          <!-- <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=Ananta-TI&show_icons=true&theme=gruvbox&hide_border=true" /> <br> -->
           </a>
         </p>
 
