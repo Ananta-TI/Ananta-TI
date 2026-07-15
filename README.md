@@ -1,12 +1,22 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
+  <img src="X(0234).svg" width="100">
   <span>Hey! It's Ananta Firdaus</span>
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  <img src="X(0235).svg" width="100">
 </h1>
 <div align="center">
-  <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1500&color=05fce0&center=true&vCenter=true&width=880&lines=Frontend+developer+with+backend+experience;Passionate+About+Technology;Always+Learning+New+Things!;Welcome+To+My+Profile!"
-  alt="typing"/>
+
+<br>
+<br>
+  <!-- svg -->
+  
+<p align="center">
+  <img src="signature.svg" alt="Animated Signature" width="300px" />
+</p>
+
+<!-- svg -->
+
+<br>
+<br>
   <p style="margin-top:12px;">
   <a href="https://github.com/Ananta-TI" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -24,9 +34,6 @@
 </div>
 
 <div align="center">
-
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ananta-TI&data=followers,repositories,stars,commits&theme=carbon)
-
 
 </div>
 
@@ -125,7 +132,4 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
-
-.
-y
 

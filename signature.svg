@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1149 575" width="100%" height="200">
+  <style>
+    .nta-line {
+      fill: none;
+      stroke-width: 8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+
+      /* dash = 1 (full path), gap = 1 (pathLength dinormalisasi ke 1) */
+      stroke-dasharray: 1 1;
+      stroke-dashoffset: 1;
+
+      animation: drawSignature 2.2s infinite;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .nta-line { stroke: #ffffff; }
+    }
+    @media (prefers-color-scheme: light) {
+      .nta-line { stroke: #09090b; }
+    }
+
+    .n-letter { animation-delay: 0s; }
+    .t-letter { animation-delay: 0.35s; }
+    .a-letter { animation-delay: 0.70s; }
+
+    /* 0% -> 50%: garis digambar (0 -> 1)
+       50% -> 100%: garis dihapus dari titik awal (1 -> 1, offset lanjut ke -1) */
+    @keyframes drawSignature {
+      0% {
+        stroke-dashoffset: 1;
+        animation-timing-function: cubic-bezier(0.45, 0, 0.55, 1);
+      }
+      50% {
+        stroke-dashoffset: 0;
+        animation-timing-function: cubic-bezier(0.45, 0, 0.55, 1);
+      }
+      100% {
+        stroke-dashoffset: -1;
+      }
+    }
+  </style>
+  <g>
+    <path 
+      class="nta-line n-letter" 
+      pathLength="1" 
+      d="M 397 565 C 435 485 480 383 526 281 C 552 224 579 162 604 116 C 608 109 615 113 612 122 C 598 223 586 345 585 430 C 585 455 603 459 620 437 C 662 381 691 297 714 210 C 735 130 754 54 704 20 C 660 -10 568 16 458 65 C 334 121 194 213 56 299 C 18 323 -4 342 18 353 C 60 372 182 344 292 344 C 416 344 533 345 642 345 C 688 345 717 345 731 345" 
+    />
+    <path 
+      class="nta-line t-letter" 
+      pathLength="1" 
+      d="M 768 171 C 750 220 724 283 695 354 C 681 389 669 418 662 444 C 675 392 690 330 621 288 C 590 288 550 288 515 288 C 650 288 850 288 1138 288" 
+    />
+    <path 
+      class="nta-line a-letter" 
+      pathLength="1" 
+      d="M 726 357 C 738 336 755 328 766 336 C 778 345 770 368 747 389 C 731 402 718 394 721 374 C 724 357 744 340 764 338 C 770 354 772 371 785 375 C 798 379 811 360 820 343" 
+    />
+  </g>
+</svg>
