@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="X(0234).svg" width="100">
-  <span>Hey! It's Ananta Firdaus</span>
+<span>Hey! It's 𝔸nanta 𝔉irdaus</span>
   <img src="X(0235).svg" width="100">
 </h1>
 <div align="center">
@@ -113,13 +113,13 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" width="350">
 </p>
 
-##  ✍️Random Dev Quote
+##  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVib3YzaXhqeTU1b3lta3c2dGdnZXRsb3psbzJ3Z2E0dm85cjRjNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WpmY9k4MKzZzS7RWtI/giphy.gif" width="35"> Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&no-bg=true&no-frame=true"/>
 </div>
 
 
-## 🌐 Connect With Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZG4xbjg2MWJmamhrdDJlZDRnaHc0M2cwbWtlNXZvODQya3hnYWgwMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dZU3I4fqS78s5m6mvl/giphy.gif" width="35"> Connect With Me
 <p align="center">
   <a href="https://www.instagram.com/ntakunti_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ananta" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ananta" height="30" width="40" /></a>
